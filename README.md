@@ -4,10 +4,10 @@
 ## Pursuing my Bachelors in Electronics and Communication Engineering.
 
 - 🔭 I’m currently working on Back-End Development
-- 🌱 I’m currently learning [PostgresSQl](https://www.postgresql.org/)
+- 🌱 I’m currently learning [Socket.io](https://socket.io/)
 - 👯 I’m looking to collaborate on full stack projects.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I listen to NF a lot.
+
 
 ### Connect With Me
 
