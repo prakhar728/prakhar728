@@ -3,9 +3,9 @@
 ## I am a second-year student at Indian Institute of Information Technology, Surat.
 ## Pursuing my Bachelors in Electronics and Communication Engineering.
 
-- 🔭 I’m currently working on Back-End Development
-- 🌱 I’m currently learning [Socket.io](https://socket.io/)
-- 👯 I’m looking to collaborate on full stack projects.
+- 🔭 I’m currently working on Block Chain Development
+- 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.10/)
+- 👯 I’m looking to collaborate on Dapp Development.
 - 😄 Pronouns: He/His
 
 
@@ -22,9 +22,10 @@
  <img align="left" alt=" HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" color="white"/>
  <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
  <img align="left" alt="JAVASCRIPT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
- <img align="left" alt="FLASK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg" />
- <img align="left" alt="PYTHON" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
  <img align="left" alt="MONGODB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
+ <img align="left" alt="ReactJs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
+ <img align="left" alt="Nodejs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
+ 
 
  
  <br />
