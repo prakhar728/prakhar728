@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Block Chain Development
 - 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
 - 👯 I’m looking to collaborate on building Decentralized Apps over the Ethereum Blockchain.
-- 😄 Pronouns: He/His
+
 
 
 ### Connect With Me
