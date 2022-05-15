@@ -4,27 +4,30 @@
 ## Pursuing my Bachelors in Electronics and Communication Engineering.
 
 - 🔭 I’m currently working on Block Chain Development
-- 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.10/)
-- 👯 I’m looking to collaborate on Dapp Development.
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
+- 👯 I’m looking to collaborate on building Decentralized Apps over the Ethereum Blockchain.
 - 😄 Pronouns: He/His
 
 
 ### Connect With Me
 
- [<img align="left" alt="Prakhar Ojha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prakhar-ojha-a94271181/)
- [<img align="left" alt="Prakhar Ojha | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/8704817/prakhar)
- [<img align="left" alt="Prakhar Ojha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](www.instagram.com)
+ [<img align="left" alt="Prakhar Ojha | LinkedIn" width="40px" src="https://img.icons8.com/color/344/linkedin-circled--v2.png" />](https://www.linkedin.com/in/prakhar-ojha/)
+ [<img align="left" alt="Prakhar Ojha | Stackoverflow" width="40px" src="https://img.icons8.com/color-glass/344/stackoverflow.png" />](https://stackoverflow.com/users/8704817/prakhar)
+ [<img align="left" alt="Prakhar Ojha | LeetCode" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />](https://leetcode.com/prakhar427/)
  
  <br />
  
  ### Languages and Skills
  
- <img align="left" alt=" HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" color="white"/>
- <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
- <img align="left" alt="JAVASCRIPT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
- <img align="left" alt="MONGODB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
- <img align="left" alt="ReactJs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
- <img align="left" alt="Nodejs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
+
+ <img align="left" alt="MONGODB" width="40px" src="https://img.icons8.com/color/344/mongodb.png" />
+ <img align="left" alt="ReactJs" width="40px" src="https://img.icons8.com/plasticine/344/react.png" />
+ <img align="left" alt="Nodejs" width="40px" src="https://img.icons8.com/fluency/344/node-js.png" />
+ <img align="left" alt="Solidity" width="40px" src="https://img.icons8.com/ios/344/solidity.png" />
+ <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
+ <img align="left" alt="Truffle" width="40px" src="https://trufflesuite.com/assets/logo.png" />
+ <img align="left" alt="PostgresSQL" width="40px" src="https://img.icons8.com/color/344/postgreesql.png" />
+ <img align="left" alt="Ethreum" width="40px" src="https://img.icons8.com/color/344/ethereum.pngg" />
  
 
  
