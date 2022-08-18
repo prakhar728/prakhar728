@@ -28,8 +28,8 @@
  <img align="left" alt="Truffle" width="40px" src="https://trufflesuite.com/assets/logo.png" />
  <img align="left" alt="PostgresSQL" width="40px" src="https://img.icons8.com/color/344/postgreesql.png" />
  <img align="left" alt="Ethreum" width="40px" src="https://img.icons8.com/color/344/ethereum.png" />
+ <img align="left" alt="Ethreum" width="40px" src="https://img.icons8.com/fluency/344/typescript.png" />
  
-
  
  <br />
  <br />
