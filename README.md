@@ -1,11 +1,11 @@
 ### Hi there 
 
-## I am a second-year student at Indian Institute of Information Technology, Surat.
+## I am a Third-year student at Indian Institute of Information Technology, Surat.
 ## Pursuing my Bachelors in Electronics and Communication Engineering.
 
 - 🔭 I’m currently working on Block Chain Development
 - 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
-- 👯 I’m looking to collaborate on building Decentralized Apps over the Ethereum Blockchain.
+- 👯 I’m looking to collaborate on building Full Stack applications and Decentralized Apps over the Ethereum Blockchain.
 
 
 
