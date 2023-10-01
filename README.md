@@ -1,11 +1,11 @@
 ### Hi there 
 
-## I am a Third-year student at Indian Institute of Information Technology, Surat.
+## I am a Final Year student at Indian Institute of Information Technology, Surat.
 ## Pursuing my Bachelors in Electronics and Communication Engineering.
 
-- 🔭 I’m currently working on Block Chain Development
-- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
-- 👯 I’m looking to collaborate on building Full Stack applications and Decentralized Apps over the Ethereum Blockchain.
+- 🔭 I’m currently working on learning about Distributed System and Building Scalabale Applications
+- 🌱 I’m currently learning [Java](https://www.java.com/en/)
+- 👯 I’m looking to collaborate on building apps that contribute to making us a better world!
 
 
 
@@ -20,16 +20,8 @@
  ### Languages and Skills
  
 
- <img align="left" alt="MONGODB" width="40px" src="https://img.icons8.com/color/344/mongodb.png" />
- <img align="left" alt="ReactJs" width="40px" src="https://img.icons8.com/plasticine/344/react.png" />
- <img align="left" alt="Nodejs" width="40px" src="https://img.icons8.com/fluency/344/node-js.png" />
- <img align="left" alt="Solidity" width="40px" src="https://img.icons8.com/ios/344/solidity.png" />
- <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
- <img align="left" alt="Truffle" width="40px" src="https://trufflesuite.com/assets/logo.png" />
- <img align="left" alt="PostgresSQL" width="40px" src="https://img.icons8.com/color/344/postgreesql.png" />
- <img align="left" alt="Ethreum" width="40px" src="https://img.icons8.com/color/344/ethereum.png" />
- <img align="left" alt="Ethreum" width="40px" src="https://img.icons8.com/fluency/344/typescript.png" />
- 
+
+ [![My Skills](https://skillicons.dev/icons?i=java,mongodb,rust,react,nodejs,solidity,cpp,postgres,ts,wasm)](https://skillicons.dev)
  
  <br />
  <br />
