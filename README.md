@@ -4,7 +4,7 @@
 ## Pursuing my Bachelors in Electronics and Communication Engineering.
 
 - 🔭 I’m currently working on learning about Distributed System and Building Scalabale Applications
-- 🌱 I’m currently learning [Java](https://www.java.com/en/)
+- 🌱 I’m currently learning [Python](https://www.python.org/)
 - 👯 I’m looking to collaborate on building apps that contribute to making us a better world!
 
 
@@ -21,7 +21,7 @@
  
 
 
- [![My Skills](https://skillicons.dev/icons?i=java,mongodb,rust,react,nodejs,solidity,cpp,postgres,ts,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,flask,java,mongodb,rust,react,nodejs,solidity,cpp,postgres,ts,wasm)](https://skillicons.dev)
  
  <br />
  <br />
