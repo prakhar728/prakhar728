@@ -31,9 +31,9 @@
  
 ### Trying to do something 
 [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/prakhar728?theme=dark&wallet=prakharojha.near">
-    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/prakhar728?theme=light&wallet=prakharojha.near">
-    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/prakhar728?wallet=prakharojha.near">
+    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/prakhar728?theme=dark&wallet=chillguyy.near">
+    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/prakhar728?theme=light&wallet=chillguyy.near">
+    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/prakhar728?wallet=chillguyy.near">
 </picture>
 ]([https://race-of-sloths.com/profile/prakhar728])
 
