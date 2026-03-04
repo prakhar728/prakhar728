@@ -10,6 +10,7 @@ I build and ship products across Web2 and Web3, with a focus on TypeScript/JavaS
 - [SageNet](https://github.com/prakhar728/SageNet) - Larger TypeScript project exploring end-to-end product implementation.
 - [ChainWhisperer](https://github.com/prakhar728/ChainWhisperer) - JavaScript blockchain-oriented app for onchain interaction workflows.
 - [TreasuryForge](https://github.com/prakhar728/TreasuryForge) - TypeScript app centered on treasury and protocol operations concepts.
+- [nest-markets](https://github.com/Nest-on-near/nest-markets) - Core TypeScript market product from the Nest-on-near organization.
 
 ## Tech Stack
 
