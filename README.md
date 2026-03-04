@@ -12,6 +12,12 @@ I build and ship products across Web2 and Web3, with a focus on TypeScript/JavaS
 - [TreasuryForge](https://github.com/prakhar728/TreasuryForge) - TypeScript app centered on treasury and protocol operations concepts.
 - [nest-markets](https://github.com/Nest-on-near/nest-markets) - Core TypeScript market product from the Nest-on-near organization.
 
+## Organizations
+
+- [Nest-on-near](https://github.com/Nest-on-near)
+  - [nest-markets](https://github.com/Nest-on-near/nest-markets) - Market-facing TypeScript application.
+  - [nest-contracts](https://github.com/Nest-on-near/nest-contracts) - Rust smart contract codebase.
+
 ## Tech Stack
 
 - Languages: TypeScript, JavaScript, Python, Java, Solidity, Rust, Move
