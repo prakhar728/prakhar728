@@ -1,29 +1,30 @@
 # prakhar728
 
-I build and ship products across Web2 and Web3, with a focus on TypeScript/JavaScript full-stack apps, blockchain tooling, and rapid prototyping.
+I build weird, high-velocity products across Web3 and full-stack apps.
 
-## Featured Projects
+## Crazy Projects I Have Built
 
-- [near-ai-web-starter](https://github.com/prakhar728/near-ai-web-starter) - Starter template for building NEAR AI web experiences.
-- [repsense](https://github.com/prakhar728/repsense) - TypeScript app focused on reputation/signal workflows and user-facing UX.
-- [Smol_bet](https://github.com/prakhar728/Smol_bet) - Betting-style product prototype with production-style frontend structure.
-- [SageNet](https://github.com/prakhar728/SageNet) - Larger TypeScript project exploring end-to-end product implementation.
-- [ChainWhisperer](https://github.com/prakhar728/ChainWhisperer) - JavaScript blockchain-oriented app for onchain interaction workflows.
-- [TreasuryForge](https://github.com/prakhar728/TreasuryForge) - TypeScript app centered on treasury and protocol operations concepts.
-- [nest-markets](https://github.com/Nest-on-near/nest-markets) - Core TypeScript market product from the Nest-on-near organization.
+- [Smol_bet](https://github.com/prakhar728/Smol_bet) - A betting product prototype with real app structure, UX, and iterative shipping.
+- [CasinoNet](https://github.com/prakhar728/CasinoNet) - Large TypeScript casino-style platform build with production-style frontend complexity.
+- [near-ai-web-starter](https://github.com/prakhar728/near-ai-web-starter) - Starter kit for AI-powered apps on NEAR, used as a launchpad for fast experiments.
+- [repsense](https://github.com/prakhar728/repsense) - Reputation/signal-focused app, built for fast product iteration and decision workflows.
+- [SageNet](https://github.com/prakhar728/SageNet) - End-to-end TypeScript build exploring full product lifecycle.
+- [ChainWhisperer](https://github.com/prakhar728/ChainWhisperer) - Blockchain interaction app focused on onchain workflows.
+- [Nest-on-near / nest-markets](https://github.com/Nest-on-near/nest-markets) - Market-facing TypeScript product in the Nest-on-near org.
+- [Nest-on-near / nest-contracts](https://github.com/Nest-on-near/nest-contracts) - Rust smart contract codebase for protocol-level logic.
 
-## Organizations
+## Skills
 
-- [Nest-on-near](https://github.com/Nest-on-near)
-  - [nest-markets](https://github.com/Nest-on-near/nest-markets) - Market-facing TypeScript application.
-  - [nest-contracts](https://github.com/Nest-on-near/nest-contracts) - Rust smart contract codebase.
+- Product Engineering: rapid MVP shipping, feature iteration, and turning rough ideas into deployable products
+- Full-Stack: TypeScript/JavaScript apps, React/Next.js style frontend architecture, API and app integration
+- Web3 Development: NEAR ecosystem builds, Solidity contracts, Rust/Move contract experimentation, onchain app workflows
+- Developer Workflow: GitHub-based delivery, repo organization, fast prototyping across multiple parallel projects
 
-## Tech Stack
+## Tech
 
-- Languages: TypeScript, JavaScript, Python, Java, Solidity, Rust, Move
-- Frontend: React/Next.js patterns, Vercel-style deployments
-- Blockchain: NEAR, Ethereum/Solidity, Sui/Move, and related ecosystem tooling
-- Tooling: GitHub workflows, rapid MVP iteration, full-stack app scaffolding
+- Languages: TypeScript, JavaScript, Rust, Solidity, Move, Python, Java
+- Platforms and Ecosystems: NEAR, EVM, Sui
+- Deployment and Tooling: Vercel-style app deployments, GitHub workflows
 
 ## Contact
 
