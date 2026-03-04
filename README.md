@@ -5,6 +5,7 @@ I build weird, high-velocity products across Web3 and full-stack apps.
 ## Crazy Projects I Have Built
 
 - [Nest-on-near / nest-markets](https://github.com/Nest-on-near/nest-markets) - Market-facing TypeScript product in the Nest-on-near org.
+- [smash-karts-chat](https://github.com/prakhar728/smash-karts-chat) - Chat-driven game companion build shipped as a focused JavaScript experiment.
 - [Nest-on-near / nest-contracts](https://github.com/Nest-on-near/nest-contracts) - Rust smart contract codebase for protocol-level logic.
 - [repsense](https://github.com/prakhar728/repsense) - Reputation/signal-focused app, built for fast product iteration and decision workflows.
 - [ChainWhisperer](https://github.com/prakhar728/ChainWhisperer) - Blockchain interaction app focused on onchain workflows.
